@@ -2155,6 +2155,14 @@
 					>
 				</File>
 				<File
+					RelativePath="src\pk\ecc\ecc_dp_utils1.c"
+					>
+				</File>
+				<File
+					RelativePath="src\pk\ecc\ecc_dp_utils2.c"
+					>
+				</File>
+				<File
 					RelativePath="src\pk\ecc\ecc_encrypt_key.c"
 					>
 				</File>
